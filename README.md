@@ -1,12 +1,9 @@
-# 陰陽紙転ミニゲーム用ツール
-
-ゲーム中は図鑑が見づらいなあと思って作ったツール。  
-
-https://onmyojigame-paper-role.vercel.app/
+# 陰陽紙転ミニゲーム用ツール | Flipped Past tool (ENG Version)
+Cards and Stories information : 05/26/2023
 
 
-## イベントについて
 
-陰陽紙転の開催期間：10/20(水)メンテ後～10/31(日)23:59
 
-[不夜京イベント攻略まとめ（神ゲー）](https://kamigame.jp/%E9%99%B0%E9%99%BD%E5%B8%AB/page/179926091471795562.html)
+&nbsp;
+## Origin Repository
+Tenderfeel/[onmyojigame-paper-role](https://github.com/Tenderfeel/onmyojigame-paper-role)
