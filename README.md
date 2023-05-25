@@ -1,4 +1,4 @@
-# 陰陽紙転ミニゲーム用ツール | Flipped Past tool (ENG Version)
+# Flipped Past tool (ENG Version)
 Cards and Stories information : 05/26/2023
 
 
