@@ -1,4 +1,4 @@
-# Flipped Past tool (ENG Version)
+# Flipped Past tool for Onmyoji (ENG Version)
 Cards and Stories information : 05/26/2023
 
 
