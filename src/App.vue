@@ -4,11 +4,11 @@
     <StoryList />
     <Button icon="pi pi-question-circle" @click="visibleInfo = true" class="btn-info p-button-secondary"  />
     <Sidebar v-model:visible="visibleInfo" :baseZIndex="1000" position="right">
-        <h1>陰陽紙転ツール</h1>
-        <p>カードの下部にある数字<br>右側：関連物語数<br>左側：ポイント</p>
-        <p>関連物語数が多いほどコンボが発生しやすくなります。</p>
-        <p>物語は全部で99あります。<br>スイッチのON/OFFはブラウザに記憶されます。</p>
-        <p>珍しい札はスキンの絵柄です。ポイントは全て8ptです。</p>
+        <h1>Flipped Past tool</h1>
+        <p>numbers at the bottom of the card<br>Left side: point<br>Right: Number of related stories</p>
+        <p>The greater the number of related stories, the easier it is for combos to occur.</p>
+        <p>There are 138 stories in all.<br>The ON/OFF of the switch is memorized in the browser.</p>
+        <p>Rare cards are Skin. Each card has a different point.</p>
         <p><a href="https://twitter.com/vesperfeel" class="p-button p-component p-button-text" target="_blank" rel="external nofollow noopener">&copy; vesperfeel</a></p>
     </Sidebar>
   </div>
