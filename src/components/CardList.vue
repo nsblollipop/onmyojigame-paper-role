@@ -3,7 +3,7 @@
     <Toolbar>
       <template #left>
         <Button
-          label="青"
+          label="Blue"
           class="p-button-info p-mr-2"
           :class="{
             'p-button-outlined': type !== 'blue',
@@ -12,7 +12,7 @@
           @click="toggleButton('blue')"
         />
         <Button
-          label="赤"
+          label="Red"
           class="p-button-danger p-mr-2"
           :class="{
             'p-button-outlined': type !== 'red',
@@ -21,7 +21,7 @@
           @click="toggleButton('red')"
         />
         <Button
-          label="黄"
+          label="Yellow"
           class="p-button-warning p-mr-2"
           :class="{
             'p-button-outlined': type !== 'yellow',
@@ -30,7 +30,7 @@
           @click="toggleButton('yellow')"
         />
         <Button
-          label="緑"
+          label="Green"
           class="p-button-success p-mr-2"
           :class="{
             'p-button-outlined': type !== 'green',
@@ -39,9 +39,9 @@
           @click="toggleButton('green')"
         />
 
-        <Chip label="Action" class="p-mr-2">{{ selectCount }}枚 </Chip>
+        <Chip label="Action" class="p-mr-2">{{ selectCount }} Cards </Chip>
 
-        <ToggleButton v-model="showSkinCard" onLabel="珍札" offLabel="珍札" onIcon="pi pi-eye" offIcon="pi pi-eye-slash" />
+        <ToggleButton v-model="showSkinCard" onLabel="Skin" offLabel="Skin" onIcon="pi pi-eye" offIcon="pi pi-eye-slash" />
 
       </template>
       <template #right>
