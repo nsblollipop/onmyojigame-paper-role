@@ -53,7 +53,7 @@ export default {
      * 珍しい札の場合は一律8pt
      */
     point() {
-      return this.hasSkin ? 8 : this.data.point + this.data.bonus;
+      return this.hasSkin ? this.data.skinpoint + this.data.bonus : this.data.point + this.data.bonus;
     },
     info() {
       return this.data.name;
