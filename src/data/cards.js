@@ -1,5 +1,14 @@
 export default [
   {
+        "id": 0,
+        "name": "unknow",
+        "type": "skin",
+        "point": 0,
+        "skinpoint": 0,
+        "bonus": 0,
+        "skin": false
+  },
+  {
       "id": 1,
       "name": "Seimei",
       "type": "blue",

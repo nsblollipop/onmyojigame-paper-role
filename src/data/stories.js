@@ -704,7 +704,7 @@ export default [
         "name": "Heian Food Fest II",
         "point": 25,
         "text": "I felt, just now, very happy to see your smiles.",
-        "cards": [""]
+        "cards": ["Shokurei","Mishige","Amezaiku"]
     },
     {
         "id": 102,
@@ -739,7 +739,7 @@ export default [
         "name": "Ensemble",
         "point": 60,
         "text": "Become glittering, precious memories.",
-        "cards": [""]
+        "cards": ["Inaba Kaguya","Mannendake","Ootengu","Hiromasa","unknow"]
     },
     {
         "id": 107,
@@ -767,7 +767,7 @@ export default [
         "name": "Sakura Blossom",
         "point": 20,
         "text": "Something which has now become their custom.",
-        "cards": [""]
+        "cards": ["Fukengaku","Momo","Sakura"]
     },
     {
         "id": 111,
@@ -851,14 +851,14 @@ export default [
         "name": "Immortal Eyes III",
         "point": 50,
         "text": "You will have shelter with me wherever you are.",
-        "cards": [""]
+        "cards": ["Yamalord Enma","Hangan","Kuro Mujou","Shiro Mujou","Mouba"]
     },
     {
         "id": 123,
         "name": "Invitation",
         "point": 8,
         "text": "Master Seimei, the wedding is ready. Please return right away.",
-        "cards": [""]
+        "cards": ["Heartseeker Momiji","Seimei"]
     },
     {
         "id": 124,
