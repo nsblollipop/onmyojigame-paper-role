@@ -935,7 +935,7 @@ export default [
         "name": "Mirror Returns I",
         "point": 10,
         "text": "From now on, you are I, and I am you",
-        "cards": ["Zen Ungaikyo","Ungaikyo"]
+        "cards": ["Ungaikyo","Zen Ungaikyo"]
     },
     {
         "id": 135,
