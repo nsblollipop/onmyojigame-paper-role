@@ -697,7 +697,7 @@ export default [
         "name": "Heian Food Fest I",
         "point": 12,
         "text": "Come on, taste our Dream Cuisine.",
-        "cards": [""]
+        "cards": ["Shokurei","Mishige"]
     },
     {
         "id": 101,
@@ -935,7 +935,7 @@ export default [
         "name": "Mirror Returns I",
         "point": 10,
         "text": "From now on, you are I, and I am you",
-        "cards": [""]
+        "cards": ["Zen Ungaikyo","Ungaikyo"]
     },
     {
         "id": 135,
